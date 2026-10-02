@@ -51,7 +51,7 @@ The project demonstrates:
 ---
 
 ## 📎 Dataset Source
-APSRTC Transport Dataset (2024)  
+APSRTC Transport Dataset (2024)  link: https://www.kaggle.com/datasets/balasrivatsa/apsrtc-public-transportation-data
 Uploaded manually as part of coursework.
 
 ---
@@ -65,4 +65,6 @@ MSc Data Analytics – BSBI Berlin
 
 ## 📬 Contact
 For academic verification or project review, please contact:
-`sai.ganga.sharan@example.com` (replace with your real email)
+`saigangasharans@gmail.com` 
+## Project Description broad.
+A complete MSc Data Analytics coursework project focused on visual analytics and storytelling using Tableau. The project analyses APSRTC public transport operations through Python‑based data preparation and a multi‑visualisation Tableau dashboard. Includes KPI cards, bar charts, line charts, scatter plots, heat maps, parameters, filters, and engineered metrics such as profit, fuel efficiency, and revenue per kilometre. Repository contains the cleaned dataset, packaged Tableau workbook (.twbx), Python notebook, dashboard screenshots, and the full academic report.
